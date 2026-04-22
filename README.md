@@ -1,5 +1,10 @@
 # Retail Customer & Revenue Analysis
 
+## View the Notebook
+> GitHub's notebook renderer can be unreliable. Use the links below for the best experience:
+
+[![Open in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/ShantanuDeshmukh21/retail-customer-revenue-analysis/blob/master/retail_analysis.ipynb)
+
 ## Overview
 End-to-end SQL and Python analysis of 500 customers, 50 products, and 3,000+ retail transactions across 2023–2024. Identifies revenue concentration, customer loyalty patterns, seasonal trends, and top-performing product categories.
 
